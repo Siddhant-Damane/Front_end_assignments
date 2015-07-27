@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<title>Assmnt 4</title>
+		<meta content="text/html; charset = utf-8" http-equiv="Content-Type">
+		
+		<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+		<link rel="stylesheet" type="text/css" href="assmnt4.css">
+	</head>
+
+	<body>
+		<header>
+			<div class="container">
+ 					<div class="row">
+  						<div class="span6">
+  							<a  class="pull-left" href="">Project name</a>
+  							<ul class="inline">
+  								<li ><a href="" class="active">Home</a></li>
+  								<li ><a href="">About</a></li>
+  								<li ><a href="">Contact</a></li>
+  							</ul>
+  						</div>
+  						<div class="span6 ">
+
+  							<form class="form-inline pull-right">
+								<input type="text"  placeholder="Email">
+								<input type="password"  placeholder="Password">
+								
+								<button type="submit" class="btn">Sign in</button>
+							</form>
+  						</div>
+					</div>
+			</div>
+
+		</header>
+
+		<div class="container banner">
+				<div class="row">
+					<div class="span12">
+						<h1>Hello,world!</h1>
+						<p>This is a template for a simple marketing or informational website.it includes a large callout called the hero unit and three supporting pieces of content.Use it as starting point to create something more unique </p>
+						<button type="submit" class="btn btn-primary">Learn more &#x276f;&#x276f;</button>
+					</div>
+				</div>	
+		</div>	
+
+		<div class="container ">
+			<div class="row">
+				<div class="span4">
+					<h3>Heading</h3>
+					<p>Donec id dnkvs .sdkn.v jlsdkasd ahsf akdbnc asfcb asdcn abndc c akc acbn abc.bc bab vnzx gads jaSBX ABjsbd .hasvd ajdb ajxb avsbjv vadja aj cx ajx ba jabdj.sdkn.v jlsdkasd ahsf akdbnc asfcb asdcn abndc c akc acbn abc.bc bab vnzx gads jaSBX ABjsbd .hasvd ajdb ajxb avsbjv vadja aj cx ajx ba jabdj.sdkn.v jlsdkasd ahsf akdbnc asfcb asdcn abndc c akc acbn abc.bc bab vnzx gads jaSBX ABjsbd .hasvd ajdb ajxb avsbjv vadja aj cx ajx ba jabdj.</p>
+					<button type="submit" class="btn ">View details &#x276f;&#x276f;</button>
+				</div>
+				<div class="span4">
+					<h3>Heading</h3>
+					<p>Donec id dnkvs .sdkn.v jlsdkasd ahsf akdbnc asfcb asdcn abndc c akc acbn abc.bc bab vnzx gads jaSBX ABjsbd .hasvd ajdb ajxb avsbjv vadja aj cx ajx ba jabdj.sdkn.v jlsdkasd ahsf akdbnc asfcb asdcn abndc c akc acbn abc.bc bab vnzx gads jaSBX ABjsbd .hasvd ajdb ajxb avsbjv vadja aj cx ajx ba jabdj.sdkn.v jlsdkasd ahsf akdbnc asfcb asdcn abndc c akc acbn abc.bc bab vnzx gads jaSBX ABjsbd .hasvd ajdb ajxb avsbjv vadja aj cx ajx ba jabdj.</p>
+					<button type="submit" class="btn ">View details &#x276f;&#x276f;</button>
+				</div>
+				<div class="span4">
+					<h3>Heading</h3>
+					<p>Donec id dnkvs .sdkn.v jlsdkasd ahsf akdbnc asfcb asdcn abndc c akc acbn abc.bc bab vnzx gads jaSBX ABjsbd .hasvd ajdb ajxb avsbjv vadja aj cx ajx ba jabdj.sdkn.v jlsdkasd ahsf akdbnc asfcb asdcn abndc c akc acbn abc.bc bab vnzx gads jaSBX ABjsbd .hasvd ajdb ajxb avsbjv vadja aj cx ajx ba jabdj.sdkn.v jlsdkasd ahsf akdbnc asfcb asdcn abndc c akc acbn abc.bc bab vnzx gads jaSBX ABjsbd .hasvd ajdb ajxb avsbjv vadja aj cx ajx ba jabdj.</p>
+					<button type="submit" class="btn ">View details &#x276f;&#x276f;</button>
+				</div>
+			</div>
+		</div>
+
+		<footer>
+			<div class="container">
+				<div class="span12">
+					<span>@Company 2013</span>
+
+				</div>
+			</div>
+		</footer>
+	</body>
+</html>
