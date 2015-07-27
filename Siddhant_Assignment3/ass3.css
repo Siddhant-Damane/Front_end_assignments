@@ -1,0 +1,219 @@
+body{
+
+	font-family: arial;
+	margin: 0px;
+}
+
+header {
+
+	font-size: 16px;
+	font-weight: bold;
+	margin: 0px;
+
+}
+
+header ul {
+	margin-top: 20px; 
+}
+
+header a {
+
+	color: #000;
+}
+
+header li {
+
+	margin-left: 30px;
+}
+
+
+header input {
+	
+	border: none;
+	background: none;
+	outline: none;
+
+}
+
+.banner {
+
+	position: absolute;
+	top:368px;
+	bottom:200px;
+	
+}
+
+.imgc {
+	width: 940px;
+	position: relative;
+}
+
+.yellow-container{
+	background-color: #ecab1f;
+
+}
+
+.yellow-container ul {
+
+	margin: 20px 0px;
+	padding: 0px;
+
+}
+
+.yellow-container li {
+
+	margin-right: 20px;
+}
+
+.yellow-container li:nth-child(4n+4){
+	margin-right: 0px;
+}
+
+.white-container {
+
+	margin-top: 60px;
+	margin-bottom: 60px;
+}
+
+.white-container h1{
+
+	margin: 15px 0px;
+	font-size: 40px;
+	color: #888888;
+}
+
+
+.white-container  ul{
+	
+	margin : 0px;
+	padding: 0px;
+}
+
+.white-container li {
+
+	margin-right: 20px;
+	background-color: #4466ff;
+	color: #ffffff;
+}
+
+.white-container li:nth-child(3n+3) {
+
+	margin-right: 0px;
+}
+
+
+.white-container h5 {
+	font-size: 11px;
+	padding: 0px;
+	margin: 15px 0px 10px 10px;
+	
+
+}
+
+.white-container h3{
+	
+	font-size: 18px;
+	padding: 0px;
+	margin: 0px 0px 15px 10px;
+}
+
+.lidiv li div {
+
+	background-color: #ffffff;
+	width: 220px;
+	height: 60px;
+	color: #222222;
+	font-size: 22px;
+	text-align: center;
+	border-radius: 10px;
+}
+
+.lidiv li div span {
+
+	line-height: 60px;
+}
+
+.lidiv li div img{
+
+	float: right;
+	margin: 16px 0px;
+
+}
+
+.black-container {
+	
+	background-color: #000;
+	margin: 0px;
+	color: #ffffff;
+
+}
+
+.ip {
+	float: left;
+	width: 198px;
+	height: 36px;
+	padding: 0px;
+
+}
+
+.btn{
+	float: right;
+	height: 38px;
+	width: 40px;
+	
+	
+	
+}
+
+.search {
+
+	float: right;
+	
+	
+	margin-top: 8px;
+	margin-bottom: 0px;
+	border: solid;
+	border-width: 1px;
+	border-radius: 5px;
+	padding: 0px;
+}
+
+.container {
+
+	width: 940px;
+	margin: 0 auto;
+}
+
+a{
+	text-decoration: none;
+}
+
+.clear {
+	float: none;
+	clear: both;
+	height: 0px;
+	width: 0px;
+	margin: 0px;
+	padding: 0px;
+}
+
+
+.logo {
+
+	
+	background-color: #ff8000;
+	padding: 19px 45px;
+	float: left;
+
+}
+
+li {
+	float: left;
+}
+
+ul {
+
+	list-style-type: none;
+	float: left;
+
+}
