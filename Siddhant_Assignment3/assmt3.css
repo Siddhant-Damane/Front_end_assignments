@@ -1,0 +1,250 @@
+body{
+
+	font-family: arial;
+	margin: 0;
+}
+
+header {
+
+	font-size: 16px;
+	font-weight: bold;
+	margin: 0;
+
+}
+
+.container {
+
+	width: 940px;
+	margin: 0 auto;
+}
+
+h1{
+	margin: 0;
+	padding: 0;
+}
+
+li {
+	float: left;
+}
+
+ul {
+
+	list-style-type: none;
+	float: left;
+	margin: 0;
+	padding: 0;
+
+}
+
+a{
+	text-decoration: none;
+}
+
+.clear {
+	float: none;
+	clear: both;
+	height: 0;
+	width: 0;
+	margin: 0;
+	padding: 0;
+}
+
+
+
+
+
+header a {
+
+	color: #000;
+}
+
+header li {
+
+	margin-left: 30px;
+}
+
+
+header input {
+	
+	border: none;
+	background: none;
+	outline: none;
+
+}
+
+header ul a {
+
+	display: block;
+	padding: 19px 0;
+}
+
+
+.logo {
+
+	
+	background-color: #ff8000;
+	padding: 19px 45px;
+	float: left;
+
+}
+
+.input-field {
+	float: left;
+	width: 198px;
+	height: 36px;
+	padding: 0;
+
+}
+
+.search-button{
+
+	float: right;
+	height: 38px;
+	width: 40px;	
+	background:none;
+	background: url("sicon.png") no-repeat right;
+	outline: none;
+	border: none;
+	
+	padding: 0;
+	
+}
+
+.search-form {
+
+	float: right;
+	
+	
+	margin-top: 8px;
+	margin-bottom: 0;
+	border: solid;
+	border-width: 1px;
+	border-radius: 5px;
+	padding: 0;
+}
+
+
+.black-container {
+	
+	background-color: #000;
+	margin: 0;
+	color: #ffffff;
+	position: relative;
+
+}
+
+
+
+.banner {
+
+	position: absolute;
+	top:318px;	
+}
+
+.banner h3 {
+	font-weight: normal;
+	font-family: times;
+}
+
+.image-container {
+	width: 940px;
+	
+}
+
+.yellow-container a{
+
+	color: #222222;
+	display: block;
+	min-height: 60px;
+	min-width: 210px;
+	
+	border-radius: 5px;
+	text-align: center;
+	background: url("arrow.png") no-repeat right ; 
+	background-color: #ffffff;
+
+
+	line-height: 60px;
+
+	border-right:10px solid white;
+	font-size: 22px;
+
+}
+
+
+
+
+.yellow-container{
+	background-color: #ecab1f;
+
+}
+
+.yellow-container ul {
+
+	margin: 20px 0;
+	
+
+}
+
+.yellow-container li {
+
+	margin-left: 20px;
+}
+
+.yellow-container li:first-child{
+	margin-left: 0;
+}
+
+.white-container {
+
+	margin-top: 60px;
+	margin-bottom: 60px;
+}
+
+.white-container a{
+	color: #ffffff;
+	display: block;
+}
+
+
+.white-container h1{
+
+	margin-bottom: 15px;
+	font-size: 40px;
+	color: #888888;
+}
+
+
+.white-container li {
+
+	margin-left: 20px;
+	background-color: #4466ff;
+	color: #ffffff;
+}
+
+.white-container li:first-child {
+
+	margin-left: 0;
+}
+
+
+.white-container h5 {
+	font-size: 11px;
+	padding: 0;
+	margin: 15px 0 10px 10px;
+	
+
+}
+
+.white-container h3{
+	
+	font-size: 18px;
+	
+	padding: 0 0 15px 10px;
+	margin: 0;
+}
+
+
+
+
+
